@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"author": "Jo",
+	"description": "Sample project for learning package.json",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
