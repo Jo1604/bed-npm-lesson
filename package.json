@@ -11,7 +11,7 @@
 		"type": "git",
 		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "Sample project for learning package.json",
 	"keywords":["freecodecamp", "back end development", "manage packages"],
 	"author": "Jo",
