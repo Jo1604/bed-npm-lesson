@@ -5,6 +5,7 @@
 	},
 	"author": "Jo",
 	"description": "Sample project for learning package.json",
+	"keywords":["freecodecamp", "back end development", "manage packages"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
